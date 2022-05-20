@@ -14,3 +14,10 @@ Hide the info cards at the end of the video with a click of a button (Chrome Onl
 # Update
 
 Repeat the same process as the installation
+
+
+# To Disable / Enable Again
+
+1. Go to Chrome://extensions 
+2. Select The Youtube Card Hider extension and click on the toggle (switch)
+
