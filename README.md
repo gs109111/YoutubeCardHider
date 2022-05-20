@@ -1,5 +1,7 @@
 # YoutubeCardHider
-Hide the info cards at the end of the video with a click of a button (Chrome Only)
+Hide the info cards at the end of the video with a click of a button 
+
+This extension only works on chrome
 
 
 
